@@ -31,9 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workbench.DependencyInjecti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workbench.IDistributedCache.Extensions", "Workbench.IDistributedCache.Extensions\Workbench.IDistributedCache.Extensions.csproj", "{FD7E1EE8-EF31-4785-B945-1ACDDB5D065F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workbench.IFormatter.Extensions", "Workbench.IFormatter.Extensions\Workbench.IFormatter.Extensions.csproj", "{C08D47C6-A1B0-4680-8854-AA5E20C91415}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workbench.IFormatter.Extensions", "Workbench.IFormatter.Extensions\Workbench.IFormatter.Extensions.csproj", "{C08D47C6-A1B0-4680-8854-AA5E20C91415}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workbench.IFormatter.Extensions.Tests", "Workbench.IFormatter.Extensions.Tests\Workbench.IFormatter.Extensions.Tests.csproj", "{95C404BB-1BDD-494D-816B-49F3B260C1DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Workbench.IFormatter.Extensions.Tests", "Workbench.IFormatter.Extensions.Tests\Workbench.IFormatter.Extensions.Tests.csproj", "{95C404BB-1BDD-494D-816B-49F3B260C1DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
